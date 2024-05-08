@@ -8,4 +8,5 @@ Some projects I contributed to:
 [Computer_Vision_UDA](https://github.com/marc-Ed/Computer_Vision_UDA)
 <Br>A computer vision project that aims at performing unsupervised domain adaptation from MNIST to SVHN datasets.
 
-
+[Reinforcement_Learning_With_PoppyTorso](https://github.com/PierreBio/Poppy)
+<Br>A reinfrocement learning project that aims at training PoppyTorso to repeat a movement.
